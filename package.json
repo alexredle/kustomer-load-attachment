@@ -1,7 +1,7 @@
 {
-  "name": "attachments",
+  "name": "kustomer-load-attachment",
   "version": "1.0.0",
-  "description": "",
+  "description": "script to load attachment in kustomer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
